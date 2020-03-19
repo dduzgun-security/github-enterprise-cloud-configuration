@@ -53,13 +53,13 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/dduzgun-security/github-enterprise-cloud-configuration.svg?style=flat-square
 [contributors-url]: https://github.com/dduzgun-security/github-enterprise-cloud-configuration/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/dduzgun-security/github-enterprise-cloud-configuration?style=flat-square
 [forks-url]: https://github.com/dduzgun-security/github-enterprise-cloud-configuration/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/dduzgun-security/github-enterprise-cloud-configuration.svg?style=flat-square
 [stars-url]: https://github.com/dduzgun-security/github-enterprise-cloud-configuration/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/dduzgun-security/github-enterprise-cloud-configuration.svg?style=flat-square
 [issues-url]: https://github.com/dduzgun-security/github-enterprise-cloud-configuration/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/dduzgun-security/github-enterprise-cloud-configuration.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
