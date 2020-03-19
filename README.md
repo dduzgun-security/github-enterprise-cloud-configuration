@@ -77,10 +77,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-[Deniz Onur Duzgun](https://github.com/dduzgun-security)
-
-</br>
-
+[Deniz Onur Duzgun](https://github.com/dduzgun-security)  
 [Khalid Nazmus Sakib](https://github.com/knsakibnbc)
 
 
