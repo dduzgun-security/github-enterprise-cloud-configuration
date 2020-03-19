@@ -39,7 +39,7 @@
 ## About the project
 Looking for a guideline to configure your GitHub Enterprise Cloud in a secure way? 
 
-Here is :fire: list of things to do.
+Here is a :fire: list of things to do!
 
 <!-- ENTERPRISE ACCOUNT SECTION -->
 ## Enterprise account section
