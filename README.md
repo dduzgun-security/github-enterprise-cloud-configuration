@@ -32,22 +32,43 @@
    * [GitHub API section](#github-api-section)
    * [Compliancy section](#compliancy-section)
    * [Support section](#support-section)
+   * [Contributing](#contributing)
 <!--te-->
 
+<!-- ABOUT THE PROJECT -->
 ## About the project
+Looking for a guideline to configure your GitHub Enterprise Cloud in a secure way? 
 
+Here is :fire: list of things to do.
+
+<!-- ENTERPRISE ACCOUNT SECTION -->
 ## Enterprise account section
 
+<!-- ORGANIZATION SECTION -->
 ## Organization section
 
+<!-- REPOSITORY SECTION -->
 ## Repository section
 
+<!-- GITHUB API SECTION -->
 ## GitHub API section
 
+<!-- COMPLIANCY SECTION -->
 ## Compliancy section
 
+<!-- SUPPORT SECTION -->
 ## Support section
 
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 
 
