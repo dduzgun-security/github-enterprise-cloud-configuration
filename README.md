@@ -1,9 +1,31 @@
-# Github Enterprise Cloud
-Guideline of best practices to follow to move to Github Enterprise Cloud in a secure way.
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/dduzgun-security/github-enterprise-cloud-configuration">
+    <img src="https://lp-cdn.lastpass.com/lporcamedia/-/apps/g/github-enterprise.png" alt="Logo" >
+  </a>
+
+  <h3 align="center">Best-README-Template</h3>
+
+  <p align="center">
+    Guideline of best practices to follow to configure Github Enterprise Cloud in a secure way.
+    <br />
+    <br />
+    <a href="https://github.com/dduzgun-security/github-enterprise-cloud-configuration/issues">Report an issue</a>
+  </p>
+</p>
+
 
 ## Table of contents
 
 <!--ts-->
+   * [About the Project](#about-the-project)
    * [Enterprise account section](#enterprise-account-section)
    * [Organization section](#organization-section)
    * [Repository section](#repository-section)
@@ -12,6 +34,7 @@ Guideline of best practices to follow to move to Github Enterprise Cloud in a se
    * [Support section](#support-section)
 <!--te-->
 
+## About the project
 
 ## Enterprise account section
 
