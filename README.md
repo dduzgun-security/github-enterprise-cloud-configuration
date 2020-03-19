@@ -11,7 +11,7 @@
     <img src="https://lp-cdn.lastpass.com/lporcamedia/-/apps/g/github-enterprise.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Github Enterprise Cloud Configuration</h3>
 
   <p align="center">
     Guideline of best practices to follow to configure Github Enterprise Cloud in a secure way.
@@ -47,3 +47,19 @@
 ## Compliancy section
 
 ## Support section
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-url]: https://github.com/dduzgun-security/github-enterprise-cloud-configuration/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-url]: https://github.com/dduzgun-security/github-enterprise-cloud-configuration/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-url]: https://github.com/dduzgun-security/github-enterprise-cloud-configuration/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-url]: https://github.com/dduzgun-security/github-enterprise-cloud-configuration/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
