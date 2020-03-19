@@ -33,6 +33,7 @@
    * [Compliancy section](#compliancy-section)
    * [Support section](#support-section)
    * [Contributing](#contributing)
+   * [License](#License)
 <!--te-->
 
 <!-- ABOUT THE PROJECT -->
@@ -61,7 +62,6 @@ Here is a :fire: list of things to do!
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -70,6 +70,14 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<!-- LICENSE -->
+## License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<!-- CONTACT -->
+## Contact
+[Deniz Onur Duzgun](https://github.com/dduzgun-security)
+[Khalid Nazmus Sakib](https://github.com/knsakibnbc)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
