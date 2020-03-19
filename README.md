@@ -25,7 +25,7 @@
 ## Table of contents
 
 <!--ts-->
-   * [About the Project](#about-the-project)
+   * [About the project](#about-the-project)
    * [Enterprise account section](#enterprise-account-section)
    * [Organization section](#organization-section)
    * [Repository section](#repository-section)
@@ -57,9 +57,28 @@ Here is a :fire: list of things to do!
 
 <!-- COMPLIANCY SECTION -->
 ## Compliancy section
+No more need to worry about server deployments, updates, availability, hardening or other because with the cloud-hosted [GitHub Enterprise Cloud](https://help.github.com/en/github/getting-started-with-github/setting-up-a-trial-of-github-enterprise-cloud#exploring-github-enterprise-cloud) because they handle this part.
+
+* [Security trust, audit and compliancy](https://github.com/security/trust)
+* [Policies](https://help.github.com/en/github/site-policy/github-enterprise-cloud-addendum)
+* [Incident response](https://github.com/security/incident-response)
+* [Security advisory](https://github.com/advisories)
+* [Bug bounty program](https://bounty.github.com/)
+
+
+
 
 <!-- SUPPORT SECTION -->
 ## Support section
+[Github Enterprise Support](https://enterprise.github.com/support) offers very usefull assistance on everything you search. :+1:
+
+* [Documentations](https://help.github.com/en)
+* [Request creation](https://enterprise.githubsupport.com/hc/en-us/requests/new)
+
+Also, GitHub offers a [Premium Support](https://help.github.com/en/github/working-with-github-support/about-github-premium-support-for-github-enterprise-cloud) with a 24/7 hours of operation availability time.
+
+
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
