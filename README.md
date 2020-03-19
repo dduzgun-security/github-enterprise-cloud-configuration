@@ -33,7 +33,8 @@
    * [Compliancy section](#compliancy-section)
    * [Support section](#support-section)
    * [Contributing](#contributing)
-   * [License](#License)
+   * [License](#license)
+   * [Contact](#contact)
 <!--te-->
 
 <!-- ABOUT THE PROJECT -->
