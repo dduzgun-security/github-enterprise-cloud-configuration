@@ -62,4 +62,4 @@
 [issues-shield]: https://img.shields.io/github/issues/dduzgun-security/github-enterprise-cloud-configuration.svg?style=flat-square
 [issues-url]: https://github.com/dduzgun-security/github-enterprise-cloud-configuration/issues
 [license-shield]: https://img.shields.io/github/license/dduzgun-security/github-enterprise-cloud-configuration.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/dduzgun-security/github-enterprise-cloud-configuration/blob/master/LICENSE.txt
