@@ -54,8 +54,6 @@ Here is a :fire: list of things to do!
 
 <!-- GITHUB API SECTION -->
 ## GitHub API section
-This section of the documentation is intended to get you up-and-running with real-world GitHub API applications.
-
 [GitHub Rest API](https://developer.github.com/v3/) helps to configure many things in GitHub such as inviting/removing members, creating repositories and more.
 
 [GitHub GraphQL API](https://developer.github.com/v4/) is also available and it offers the ability to define pricisely only the required data you want in a single call. It is also very usefull to [audit GitHub logs](https://github.blog/2019-06-21-the-github-enterprise-audit-log-api-for-graphql-beginners/).
