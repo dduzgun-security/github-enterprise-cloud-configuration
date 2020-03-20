@@ -49,13 +49,6 @@
      * [GitHub Actions](#github-actions)
      * [GitHub Packages](#github-packages)
      * [Agility](#agility)
-     
-
-
-
-     * [Naming convention](#naming-convention)
-     * [Naming convention](#naming-convention)
-     * [Naming convention](#naming-convention)
    * [GitHub API section](#github-api-section)
      * [GitHub Rest API](#github-rest-api)
      * [GitHub GraphQL API](#github-graphql-api)
