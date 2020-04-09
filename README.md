@@ -27,6 +27,12 @@
 <!--ts-->
    * [About the project](#about-the-project)
    * [Enterprise account section](#enterprise-account-section)
+     * [Managing the subscription](#managing-the-subscription)
+     * [Roles for an enterprise account](#roles-for-an-enterprise-account)
+     * [Manage user SAML access to enterprise account](#manage-user-saml-access-to-enterprise-account)
+     * [Adding organizations to the enterprise account](#adding-organizations-to-the-enterprise-account)
+     * [Enforcing repository management policy](#enforcing-repository-management-policy)
+     * [Enforcing security settings in your enterprise account](#enforcing-security-settings-in-your-enterprise-account)
    * [Organization section](#organization-section)
      * [Profile settings](#organization-profile-settings)
      * [Member privileges](#member-privileges)
@@ -88,6 +94,36 @@ Here is a :fire: list of things to do!
 
 <!-- ENTERPRISE ACCOUNT SECTION -->
 ## Enterprise account section
+##### Managing the subscription
+View the [current subscription, license usage, invoices, payment history, and other billing information](https://help.github.com/en/github/setting-up-and-managing-your-enterprise-account/viewing-the-subscription-and-usage-for-your-enterprise-account) for your enterprise account.
+
+##### Roles for an enterprise account
+Enterprise accounts come with a set of [administrator roles](https://help.github.com/en/github/setting-up-and-managing-your-enterprise-account/roles-for-an-enterprise-account) that you can assign to users of your enterprise. Each administrator role maps to business functions and provides permissions to do specific tasks within the enterprise account.
+
+##### Manage user SAML access to enterprise account
+When you enable [SAML single sign-on for your enterprise account](https://help.github.com/en/github/setting-up-and-managing-your-enterprise-account/viewing-and-managing-a-users-saml-access-to-your-enterprise-account), each enterprise member can link their external identity on your identity provider (IdP) to their existing GitHub account. To access each organization's resources on GitHub, the member must have an active SAML session in their browser. To access each organization's protected resources using the API and Git, the member must use a personal access token or SSH key that the member has authorized for use with the organization. Enterprise owners can view and revoke a member's linked identity, active sessions, or authorized credentials at any time.
+
+##### Adding organizations to the enterprise account
+Enterprise owners can [create new organizations within an enterprise](https://help.github.com/en/github/setting-up-and-managing-your-enterprise-account/adding-organizations-to-your-enterprise-account) account's settings.
+
+To add an organization to your enterprise account, you must create the organization from within the enterprise account settings. You cannot transfer existing organizations into an enterprise account.
+
+##### Enforcing repository management policy
+Enterprise owners can enforce certain repository management policies for all organizations owned by an enterprise account, or [allow policies](https://help.github.com/en/github/setting-up-and-managing-your-enterprise-account/enforcing-repository-management-policies-in-your-enterprise-account) to be set in each organization. The policies should respect the repository rules in the repository section bellow.
+
+##### Enforcing security settings in your enterprise account
+Enforce every [enterprise account security recommendations](https://help.github.com/en/github/setting-up-and-managing-your-enterprise-account/enforcing-security-settings-in-your-enterprise-account) listed here.
+
+This covers many sections such as
+```
+1. Requiring two-factor authentication for organizations in your enterprise account
+2. Managing allowed IP addresses for organizations in your enterprise account
+3. Enabling SAML single sign-on for organizations in your enterprise account
+4. Managing team synchronization for organizations in your enterprise account
+5. Managing your enterprise account's SSH certificate authorities
+```
+
+More details can be viewed the [organization security](#organization-security) section
 
 <!-- ORGANIZATION SECTION -->
 ## Organization section
