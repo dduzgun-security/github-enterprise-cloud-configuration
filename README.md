@@ -114,6 +114,8 @@ Enterprise owners can enforce certain repository management policies for all org
 ##### Enforcing security settings in your enterprise account
 Enforce every [enterprise account security recommendations](https://help.github.com/en/github/setting-up-and-managing-your-enterprise-account/enforcing-security-settings-in-your-enterprise-account) listed here.
 
+![image](https://user-images.githubusercontent.com/59659739/80521562-3acf9a00-8959-11ea-9750-c55e4bbe2507.png)
+
 This covers many sections such as
 ```
 1. Requiring two-factor authentication for organizations in your enterprise account
