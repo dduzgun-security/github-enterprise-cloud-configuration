@@ -21,6 +21,7 @@
   </p>
 </p>
 
+:warning:	This document is subject to change as the GitHub platform grows with time.
 
 ## Table of contents
 
